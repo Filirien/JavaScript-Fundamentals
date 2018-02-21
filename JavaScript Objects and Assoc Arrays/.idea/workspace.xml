@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8f0a0656-1a44-402c-9da9-15d95adac272" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/02. JSON's Table.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/03. Cappy Juice.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/04. Store Catalogue.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/05. Auto-Engineering Company.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/06. System Components.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/07. Usernames.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/08. Unique Sequences.js" />
-      <change beforePath="$PROJECT_DIR$/../Lab JavaScript Objects and Assoc Arrays/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Lab JavaScript Objects and Assoc Arrays/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="8f0a0656-1a44-402c-9da9-15d95adac272" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -245,12 +236,12 @@
       <workItem from="1517491884340" duration="1847000" />
       <workItem from="1517506493417" duration="1000000" />
       <workItem from="1517556260826" duration="7872000" />
-      <workItem from="1518101350705" duration="924000" />
+      <workItem from="1518101350705" duration="1008000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11643000" />
+    <option name="totallyTimeSpent" value="11727000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="953" y="0" width="974" height="1047" extended-state="0" />
@@ -261,7 +252,7 @@
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32976446" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32976446" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
